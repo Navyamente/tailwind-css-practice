@@ -1,12 +1,12 @@
 import React from "react";
 
-import CompanyDetails from "./screens/CompanyDetails";
+import LayoutTwo from "./layouts/LayoutTwo";
 import "./styles/index.css";
 
 const App = () => {
   return (
     <div>
-      <CompanyDetails />
+      <LayoutTwo />
     </div>
   );
 };
