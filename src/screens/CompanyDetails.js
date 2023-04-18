@@ -2,7 +2,7 @@ import React from "react";
 
 const CompanyDetails = () => {
   return (
-    <div className="flex flex-col h-full w-full justify-center bg-gray-100 space-y-1 p-6">
+    <div className="flex flex-col h-full w-full justify-center bg-gray-100 space-y-1 mx-auto p-24">
       <div className="container flex flex-col space-x-16 overflow-x-auto">
         <div className="flex flex-col md:flex-col  px-4 py-6 mx-auto bg-white ">
           <div className=" flex flex-col place-items-center justify-between w-auto">
