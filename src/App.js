@@ -1,6 +1,6 @@
 import React from "react";
-
 import FinancialDetails from "./screens/FinancialDetails";
+
 
 const App = () => {
   return (
