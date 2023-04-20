@@ -1,12 +1,11 @@
 import React from "react";
 
-import LayoutTwo from "./layouts/LayoutTwo";
-import "./styles/index.css";
+import FinancialDetails from "./screens/FinancialDetails";
 
 const App = () => {
   return (
     <div>
-      <LayoutTwo />
+      <FinancialDetails />
     </div>
   );
 };
